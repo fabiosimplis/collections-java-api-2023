@@ -1,5 +1,7 @@
 package Set.OperacoesBasicas;
 
+import Entities.Convidado;
+
 import java.util.HashSet;
 import java.util.Set;
 

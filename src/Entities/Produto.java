@@ -1,4 +1,4 @@
-package Set.Ordenacao;
+package Entities;
 
 import java.util.Objects;
 

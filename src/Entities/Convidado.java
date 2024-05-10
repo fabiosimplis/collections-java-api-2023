@@ -1,4 +1,4 @@
-package Set.OperacoesBasicas;
+package Entities;
 
 import java.util.Objects;
 

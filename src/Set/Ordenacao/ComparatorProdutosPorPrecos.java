@@ -1,5 +1,7 @@
 package Set.Ordenacao;
 
+import Entities.Produto;
+
 import java.util.Comparator;
 
 public class ComparatorProdutosPorPrecos implements Comparator<Produto> {
